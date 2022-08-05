@@ -1,0 +1,37 @@
+.searchBox{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.heroBanner{
+  display: flex;
+flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  margin-top:2rem;
+  
+}
+.loader{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.google1{
+ color:#DB4437;
+}
+.google2{
+  color:#F4B400;
+ }
+ .google3{
+  color: #0F9D58;
+ }
+ .app{
+  align-items: center;
+  justify-content: center;
+  overflow-x:hidden;
+ }
+
