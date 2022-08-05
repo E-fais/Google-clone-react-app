@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f795d0b3.css",
-    "main.js": "/react-gh-pages/static/js/main.7897cc4a.js",
-    "static/media/loader.gif": "/react-gh-pages/static/media/loader.ece48b522b0fd1593554.gif",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f795d0b3.css.map": "/react-gh-pages/static/css/main.f795d0b3.css.map",
-    "main.7897cc4a.js.map": "/react-gh-pages/static/js/main.7897cc4a.js.map"
+    "main.css": "/Google-clone-react-app/static/css/main.f795d0b3.css",
+    "main.js": "/Google-clone-react-app/static/js/main.f4dc0a8f.js",
+    "static/media/loader.gif": "/Google-clone-react-app/static/media/loader.ece48b522b0fd1593554.gif",
+    "index.html": "/Google-clone-react-app/index.html",
+    "main.f795d0b3.css.map": "/Google-clone-react-app/static/css/main.f795d0b3.css.map",
+    "main.f4dc0a8f.js.map": "/Google-clone-react-app/static/js/main.f4dc0a8f.js.map"
   },
   "entrypoints": [
     "static/css/main.f795d0b3.css",
-    "static/js/main.7897cc4a.js"
+    "static/js/main.f4dc0a8f.js"
   ]
 }
