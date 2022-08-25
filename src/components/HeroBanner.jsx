@@ -17,8 +17,8 @@ function HeroBanner() {
       </div>
       <div>
         <Typography
-         fontFamily={'roboto'} fontWeight={700} variant='body2'> <span className="google1" >Google </span>
-        <span className="google2" >Without</span><span className="google3"> Ads! </span></Typography>
+         fontFamily={'roboto'} fontWeight={700} variant='body2'> <span className="google1" >Search </span>
+        <span className="google2" >The</span><span className="google3"> Web </span></Typography>
       </div>
     </div>
   );
